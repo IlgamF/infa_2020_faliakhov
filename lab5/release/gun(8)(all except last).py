@@ -400,7 +400,7 @@ def lose():
     b3.place(x=0, y=0)
     rules7 = Label(root, text='Ты не справился', font="Arial 15", bg="white", fg="blue")
     rules8 = Label(root, text='Из-за тебя инопланетяне захватили Россию и весь мир', font="Arial 15", bg="white", fg="blue")
-    rules9 = Label(root, text='молодец ага падла!!!', font="Arial 15", bg="white", fg="blue")
+    rules9 = Label(root, text='молодец, ага!!!', font="Arial 15", bg="white", fg="blue")
     rules7.place(x=50, y=110)
     rules8.place(x=0, y=135)
     rules9.place(x=50, y=160)
